@@ -1,4 +1,4 @@
-# Explore-Machine-Learning-Models-with-Expandable-AI-Chalenge-Lab
+## Explore-Machine-Learning-Models-with-Expandable-AI-Chalenge-Lab
 
 # ---- TODO ---------
 model = Sequential()
